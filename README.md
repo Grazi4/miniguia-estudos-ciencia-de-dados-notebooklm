@@ -1,5 +1,10 @@
 # miniguia-estudos-ciencia-de-dados-notebooklm
 Guia de estudos em Ciência de Dados utilizando o NotebookLM como suporte para organização de conteúdos, síntese de materiais e construção de trilhas de aprendizagem.
+
+# Você pode acessar o gui de estudos completo no NotebookLM pelo link:
+
+https://notebooklm.google.com/notebook/c3e4d2ca-dd38-41ab-9505-563b0c25b3b4
+
 # 📊 Guia de Estudos em Ciência de Dados com NotebookLM
 
 Este projeto tem como objetivo a criação de um guia de estudos em Ciência de Dados utilizando a ferramenta **NotebookLM**, com foco na organização, síntese e estruturação do conhecimento.
