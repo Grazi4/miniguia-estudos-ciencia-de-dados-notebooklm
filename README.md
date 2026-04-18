@@ -143,6 +143,8 @@ Criar um material que:
 ## Engenharia de Prompts - Resultados 
 
 ***Prompt -***  O que seria Ciência de Dados e quais são os desafios de quem ingressa na área?
+
+
 ***Resposta -*** **Ciência de Dados** é um campo multidisciplinar que utiliza métodos científicos, algoritmos e sistemas para extrair conhecimento e insights de dados estruturados e não estruturados. Ela se baseia em uma tríade fundamental: **conhecimento matemático/estatístico**, **habilidades computacionais/programação** e **especialidade de domínio (conhecimento de negócio)**. 
 
 O objetivo central é transformar grandes volumes de informação em narrativas acionáveis que auxiliem na tomada de decisões estratégicas. Diferente do que muitos pensam, não é apenas uma disciplina técnica, mas também um processo **criativo**, pois existem múltiplas formas de resolver um problema e encontrar significado nos dados.
@@ -161,18 +163,20 @@ Para superar esses obstáculos, recomenda-se que o iniciante siga um **roteiro e
 
 
 ***Prompt -*** Me informe de maneira detalhada o que é necessário para trabalhar com ciência de  dados. Quero que me informe quais tecnologias e habilidades preciso desenvolver, fazer um passo a passo estratégico de como começar a estudar e o que devo estudar. Me apresente em tópicos divididos por áreas de estudo.
+
+
 ***Resposta -*** Para trabalhar com **Ciência de Dados**, você precisa desenvolver uma combinação equilibrada de **habilidades técnicas (hard skills)**, **matemáticas** e **conhecimento de negócio (soft skills)**. O campo evoluiu para ser o "sistema nervoso central" das empresas, exigindo que o profissional não apenas manipule dados, mas extraia valor estratégico deles.
 
 Abaixo, apresento o detalhamento das tecnologias e habilidades necessárias, divididas por áreas de estudo, seguidas de um roteiro estratégico.
 
-### 1. Fundamentos Matemáticos e Estatísticos
+ **1. Fundamentos Matemáticos e Estatísticos**
 A matemática é a base para entender como os algoritmos funcionam e para diagnosticar problemas quando os resultados são inesperados.
 *   **Álgebra Linear:** Essencial para lidar com matrizes e vetores, que são a forma como os computadores processam grandes volumes de dados.
 *   **Cálculo Diferencial:** Necessário para entender a otimização de modelos, como o algoritmo de **Gradiente Descendente**, usado no treinamento de redes neurais.
 *   **Estatística Inferencial e Probabilidade:** Fundamentais para quantificar a incerteza, realizar **Testes A/B**, testar hipóteses e tirar conclusões sobre uma população a partir de amostras.
 *   **Econometria:** Importante para entender relações causais e fazer previsões de tendências econômicas e de mercado.
 
-### 2. Programação e Tecnologias de Dados
+**2. Programação e Tecnologias de Dados**
 A programação permite automatizar a coleta, limpeza e modelagem dos dados.
 *   **Python:** É a linguagem soberana na área devido à sua simplicidade e vasto ecossistema de bibliotecas. As bibliotecas essenciais são:
     *   **Pandas:** Manipulação e limpeza de dados (Data Wrangling).
@@ -182,29 +186,28 @@ A programação permite automatizar a coleta, limpeza e modelagem dos dados.
 *   **Excel:** Ainda é uma ferramenta fundamental para análise rápida, exploração inicial e comunicação com áreas de negócio.
 *   **Git e GitHub:** Essenciais para controle de versão, colaboração em equipe e para hospedar seu portfólio de projetos.
 
-### 3. Manipulação e Análise Exploratória de Dados (EDA)
+**3. Manipulação e Análise Exploratória de Dados (EDA)**
 Cerca de 80% do trabalho de um cientista de dados envolve preparar os dados antes da modelagem.
 *   **Data Wrangling/Cleaning:** Processo de tratar valores ausentes, duplicados, erros de digitação e outliers.
 *   **EDA (Exploratory Data Analysis):** Investigação inicial para detectar padrões, anomalias e testar hipóteses visualmente e numericamente.
 *   **Ambientes de Execução:** Domínio de ferramentas como **Jupyter Notebook** e **Google Colab**, que permitem misturar código, visualizações e textos explicativos.
 
-### 4. Machine Learning (ML) e Inteligência Artificial (IA)
+**4. Machine Learning (ML) e Inteligência Artificial (IA)**
 Esta é a parte onde você constrói sistemas que aprendem com os dados.
 *   **Aprendizado Supervisionado:** Algoritmos de **Regressão** (previsão de números, como preços) e **Classificação** (identificação de categorias, como spam ou não spam).
 *   **Aprendizado Não Supervisionado:** Técnicas de **Clustering** (agrupamento de clientes) e detecção de anomalias.
 *   **Deep Learning:** Uso de redes neurais para dados complexos como imagens (**CNNs**) e textos (**Transformers/NLP**).
 *   **IA Generativa e LLMs:** Tendência atual que exige conhecimento em **Engenharia de Prompt** e integração de modelos como GPT-4 em fluxos de trabalho de dados.
 
-### 5. Visualização de Dados e Storytelling
+**5. Visualização de Dados e Storytelling**
 Habilidades cruciais para traduzir resultados técnicos em decisões de negócio.
 *   **Ferramentas de BI:** Domínio de **Tableau** ou **Power BI** para criar dashboards interativos.
 *   **Bibliotecas de Visualização:** Uso de Matplotlib, Seaborn e Plotly para criar gráficos estatísticos personalizados.
 *   **Storytelling de Dados:** Capacidade de contar uma história com os dados, explicando não apenas o "quê", mas o "porquê" e quais ações devem ser tomadas.
 *   **Conhecimento de Domínio:** Entender o contexto do setor (finanças, saúde, varejo) para formular as perguntas certas.
 
----
 
-### Passo a Passo Estratégico para Começar a Estudar
+ **Passo a Passo Estratégico para Começar a Estudar**
 
 Para não se perder na vastidão de conteúdos, siga este roteiro estruturado:
 
@@ -217,13 +220,14 @@ Para não se perder na vastidão de conteúdos, siga este roteiro estruturado:
 Lembre-se: tornar-se um cientista de dados é uma **maratona, não um sprint**. Foque em entender os conceitos profundamente e em ganhar experiência prática através de projetos.
 
 ***Prompt -*** Desenvolva um exemplo de código com Python que pode ser usado para automações em Ciência de Dados e me explique o que ele faz.
+
+
 ***Resposta -*** A automação em Ciência de Dados é o processo de transformar tarefas manuais repetitivas — como coleta, limpeza e organização de arquivos — em scripts programados que economizam tempo e reduzem erros. Python é a linguagem líder para isso devido à sua versatilidade e bibliotecas poderosas.
 
 Abaixo, apresento dois exemplos de código práticos baseados nas fontes: um focado em **limpeza de dados (Data Wrangling)** e outro em **automação de arquivos no sistema**.
 
----
 
-### Exemplo 1: Automação de Limpeza e Preparação (Pandas)
+ **Exemplo 1: Automação de Limpeza e Preparação (Pandas)**
 Este script automatiza o tratamento de um conjunto de dados "sujo", padronizando nomes e preenchendo lacunas.
 
 ```python
@@ -260,7 +264,7 @@ automatizar_limpeza('seu_arquivo_bruto.csv')
 
 ---
 
-### Exemplo 2: Automação de Gerenciamento de Arquivos (Módulo `os`)
+**Exemplo 2: Automação de Gerenciamento de Arquivos (Módulo `os`)**
 Ideal para organizar grandes volumes de arquivos recebidos de sensores, web scraping ou bancos de dados.
 
 ```python
@@ -292,11 +296,13 @@ renomear_arquivos_em_massa('C:/dados/projeto_vendas', 'venda_setembro')
 *   **Organização em Massa:** Renomeia centenas ou milhares de arquivos com nomes "bagunçados" para um padrão sequencial (venda_setembro_0.csv, venda_setembro_1.csv, etc.).
 *   **Manipulação do Sistema:** Utiliza o módulo `os` para interagir diretamente com o sistema operacional, permitindo criar, mover ou deletar diretórios conforme necessário.
 
-### Dica para o Próximo Passo
+**Dica para o Próximo Passo**
 Esses scripts podem ser programados para rodar sozinhos em horários específicos (como todas as madrugadas) usando o **Agendador de Tarefas do Windows** ou o **Cron no Linux**, criando um pipeline de dados totalmente autônomo.
 
 
 ***Prompt -*** Quero o relatório detalhado com os primeiros passos.
+
+
 ***Resposta -*** Conforme solicitado, criei um **roteiro de estudos detalhado** estruturado em etapas estratégicas para guiar seu início na Ciência de Dados.
 
 O relatório, que estará disponível em breve na aba do NotebookLM, está organizado nas seguintes fases:
