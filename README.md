@@ -142,10 +142,12 @@ Criar um material que:
 
 ## Engenharia de Prompts - Resultados 
 
-***Prompt -***  O que seria Ciência de Dados e quais são os desafios de quem ingressa na área?
+# ***Prompt -*** 
+O que seria Ciência de Dados e quais são os desafios de quem ingressa na área?
 
 
-***Resposta -*** **Ciência de Dados** é um campo multidisciplinar que utiliza métodos científicos, algoritmos e sistemas para extrair conhecimento e insights de dados estruturados e não estruturados. Ela se baseia em uma tríade fundamental: **conhecimento matemático/estatístico**, **habilidades computacionais/programação** e **especialidade de domínio (conhecimento de negócio)**. 
+# ***Resposta -*** 
+**Ciência de Dados** é um campo multidisciplinar que utiliza métodos científicos, algoritmos e sistemas para extrair conhecimento e insights de dados estruturados e não estruturados. Ela se baseia em uma tríade fundamental: **conhecimento matemático/estatístico**, **habilidades computacionais/programação** e **especialidade de domínio (conhecimento de negócio)**. 
 
 O objetivo central é transformar grandes volumes de informação em narrativas acionáveis que auxiliem na tomada de decisões estratégicas. Diferente do que muitos pensam, não é apenas uma disciplina técnica, mas também um processo **criativo**, pois existem múltiplas formas de resolver um problema e encontrar significado nos dados.
 
@@ -162,10 +164,12 @@ Para superar esses obstáculos, recomenda-se que o iniciante siga um **roteiro e
 
 
 
-***Prompt -*** Me informe de maneira detalhada o que é necessário para trabalhar com ciência de  dados. Quero que me informe quais tecnologias e habilidades preciso desenvolver, fazer um passo a passo estratégico de como começar a estudar e o que devo estudar. Me apresente em tópicos divididos por áreas de estudo.
+# ***Prompt -*** 
+Me informe de maneira detalhada o que é necessário para trabalhar com ciência de  dados. Quero que me informe quais tecnologias e habilidades preciso desenvolver, fazer um passo a passo estratégico de como começar a estudar e o que devo estudar. Me apresente em tópicos divididos por áreas de estudo.
 
 
-***Resposta -*** Para trabalhar com **Ciência de Dados**, você precisa desenvolver uma combinação equilibrada de **habilidades técnicas (hard skills)**, **matemáticas** e **conhecimento de negócio (soft skills)**. O campo evoluiu para ser o "sistema nervoso central" das empresas, exigindo que o profissional não apenas manipule dados, mas extraia valor estratégico deles.
+# ***Resposta -*** 
+Para trabalhar com **Ciência de Dados**, você precisa desenvolver uma combinação equilibrada de **habilidades técnicas (hard skills)**, **matemáticas** e **conhecimento de negócio (soft skills)**. O campo evoluiu para ser o "sistema nervoso central" das empresas, exigindo que o profissional não apenas manipule dados, mas extraia valor estratégico deles.
 
 Abaixo, apresento o detalhamento das tecnologias e habilidades necessárias, divididas por áreas de estudo, seguidas de um roteiro estratégico.
 
@@ -219,10 +223,12 @@ Para não se perder na vastidão de conteúdos, siga este roteiro estruturado:
 
 Lembre-se: tornar-se um cientista de dados é uma **maratona, não um sprint**. Foque em entender os conceitos profundamente e em ganhar experiência prática através de projetos.
 
-***Prompt -*** Desenvolva um exemplo de código com Python que pode ser usado para automações em Ciência de Dados e me explique o que ele faz.
+# ***Prompt -*** 
+Desenvolva um exemplo de código com Python que pode ser usado para automações em Ciência de Dados e me explique o que ele faz.
 
 
-***Resposta -*** A automação em Ciência de Dados é o processo de transformar tarefas manuais repetitivas — como coleta, limpeza e organização de arquivos — em scripts programados que economizam tempo e reduzem erros. Python é a linguagem líder para isso devido à sua versatilidade e bibliotecas poderosas.
+# ***Resposta -*** 
+A automação em Ciência de Dados é o processo de transformar tarefas manuais repetitivas — como coleta, limpeza e organização de arquivos — em scripts programados que economizam tempo e reduzem erros. Python é a linguagem líder para isso devido à sua versatilidade e bibliotecas poderosas.
 
 Abaixo, apresento dois exemplos de código práticos baseados nas fontes: um focado em **limpeza de dados (Data Wrangling)** e outro em **automação de arquivos no sistema**.
 
@@ -300,10 +306,12 @@ renomear_arquivos_em_massa('C:/dados/projeto_vendas', 'venda_setembro')
 Esses scripts podem ser programados para rodar sozinhos em horários específicos (como todas as madrugadas) usando o **Agendador de Tarefas do Windows** ou o **Cron no Linux**, criando um pipeline de dados totalmente autônomo.
 
 
-***Prompt -*** Quero o relatório detalhado com os primeiros passos.
+# ***Prompt -*** 
+Quero o relatório detalhado com os primeiros passos.
 
 
-***Resposta -*** Conforme solicitado, criei um **roteiro de estudos detalhado** estruturado em etapas estratégicas para guiar seu início na Ciência de Dados.
+# ***Resposta -*** 
+Conforme solicitado, criei um **roteiro de estudos detalhado** estruturado em etapas estratégicas para guiar seu início na Ciência de Dados.
 
 O relatório, que estará disponível em breve na aba do NotebookLM, está organizado nas seguintes fases:
 
@@ -317,12 +325,30 @@ Você poderá acessar o documento completo na aba lateral assim que o processame
 
 
 
-## 📌 Contexto acadêmico
+## 📌 Contexto acadêmico - Mini Guia de Estudo
 
-Este projeto foi desenvolvido como parte de um curso, com o objetivo de aplicar ferramentas de inteligência artificial no processo de aprendizagem.
+Este projeto foi desenvolvido como parte de um curso, com o objetivo de aplicar ferramentas de inteligência artificial no processo de aprendizagem. Foram utilizizados conceitos de Engenharia de Prompts na realização de teste do ***NotebooKLM*** desenvolvido, a utilização de tecnicas como instruções claras e guardrails foram essenciais para os testes feitos em nossos casos de estudo.
+
+**Temas abordados**
+* Ciência de Dados
+* Python
+* Banco de Dados SQL
+* Power BI
+* Análise de Dados
+* Machine Learning
+* Deep Learning
+* Matemática e Estatísticas
+
+***Prompts para estudos futuros**
+
+* Como funciona o processo de limpeza de dados com SQL?
+* Qual a diferença entre Engenheiro de Dados e Arquiteto de Dados?
+* Como o Power BI se integra com Python e R?
+* O que são as subqueries na limpeza dinâmica do SQL?
+
 
 ---
 
 ## 🚧 Status
 
-Em desenvolvimento
+***NotebookLM*** pronto para uso mas visando melhorias.
